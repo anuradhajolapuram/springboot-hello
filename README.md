@@ -8,3 +8,6 @@
     git clone https://github.com/Naresh240/springboot-hello.git
     cd pring-boot-hello
 # Build Maven Artifacts
+fhxfgh
+cgj
+
